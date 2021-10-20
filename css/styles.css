@@ -16,6 +16,11 @@ p {
   font-size: 20px;
 }
 
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
 li {
   text-align: center;
   font-size: 25px;
@@ -27,4 +32,12 @@ h3 {
 }
 body {
   background-color: rgb(126, 61, 54);
+}
+
+.sidebar p img{
+  display: block;
+}
+
+p {
+  background-color: green;
 }
