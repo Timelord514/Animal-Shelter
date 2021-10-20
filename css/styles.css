@@ -41,3 +41,8 @@ body {
 p {
   background-color: green;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
