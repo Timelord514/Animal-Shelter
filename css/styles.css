@@ -85,3 +85,17 @@ body {
   background-color: maroon;
   align-items: center;
 }
+
+.my-class {
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.centered-image {
+  width: 50%;
+  height: auto;
+}
+
